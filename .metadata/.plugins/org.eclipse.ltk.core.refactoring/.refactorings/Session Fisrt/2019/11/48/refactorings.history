@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.first&apos; to &apos;softserve.first&apos;&#x0D;&#x0A;- Original project: &apos;Session Fisrt&apos;&#x0D;&#x0A;- Original element: &apos;Session Fisrt/com.first&apos;&#x0D;&#x0A;- Renamed element: &apos;Session Fisrt/softserve.first&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.first&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/&lt;com.first" name="softserve.first" qualified="false" references="true" stamp="1575012374001" textual="false" version="1.0"/>
+</session>
