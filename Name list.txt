@@ -1,5 +1,5 @@
 Ivan
-New Dima bla-bla new branch
+master
 Stepan
 Petro
 Semen
