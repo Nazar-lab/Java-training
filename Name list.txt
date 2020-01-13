@@ -1,6 +1,3 @@
 Ivan
-master 123
 Stepan
 Petro
-Semen
-Arhyp 123
